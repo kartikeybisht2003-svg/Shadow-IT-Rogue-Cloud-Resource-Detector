@@ -58,7 +58,7 @@ Combining multi-region telemetry collection, machine learning risk regression, a
 
 ---
 
-## 🎯 Executive Summary & Problem Statement
+## 🎯 Executive Summary & Problem Statement:
 
 Modern cloud organizations frequently encounter **Shadow IT**—infrastructure provisioned outside centralized procurement and DevOps pipelines. Unmanaged assets introduce severe enterprise vulnerabilities:
 
